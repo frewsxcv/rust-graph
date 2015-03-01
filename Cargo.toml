@@ -1,0 +1,8 @@
+[package]
+
+name = "graph"
+description = "Graph library for rust"
+license = "Apache-2.0"
+version = "0.0.1"
+authors = ["Corey Farwell <coreyf@rwell.org>"]
+repository = "https://github.com/frewsxcv/rust-graphp"
